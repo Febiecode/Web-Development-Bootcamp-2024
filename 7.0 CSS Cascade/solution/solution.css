@@ -8,10 +8,10 @@
 }
 
 .inner-box {
-  background-color: red;
+  background-color: red !important;
 }
 
-p {
+p{
   color: yellow;
   margin: 0;
   padding: 0;
